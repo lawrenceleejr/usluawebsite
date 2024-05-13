@@ -8,7 +8,7 @@ disableTextInHeader = false
 defaultBackgroundImage = "test.png"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = false
@@ -33,9 +33,9 @@ showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = false
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
@@ -47,11 +47,11 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = false
-showTableOfContents = false
+showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false

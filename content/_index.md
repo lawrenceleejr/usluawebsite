@@ -26,6 +26,23 @@ npx blowfish-tools
 
 <!-- {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
 
-Test
 
-m quis cupidatat fugiat cupidatat dolore nisi consequat laborum eiusmod consequat nisi ut occaecat magna ut consectetur qui anim magna pariatur culpa reprehenderit deserunt nisi ut in id dolor occaecat consequat sint eu mollit excepteur cillum culpa culpa culpa irure in consectetur nulla eiusmod consequat reprehenderit irure adipisicing incididunt consequat eiusmod ad ex proident elit ex dolor sed cillum laborum nisi in consequat ea quis dolore occaecat pariatur ex ut ea nulla duis in cupidatat voluptate eiusmod in fugiat in sunt sit labore dolor cillum nisi deserunt minim est ad tempor amet dolor consequat cillum nostrud sed et irure minim nulla in sed incididunt elit sint dolore veniam ut eu id ut elit ea culpa excepteur duis nostrud sed in exercitation in.
+## A Letter from the Chair
+
+## Purpose and Structure
+
+The US LHC Users Association (US LUA) is composed of scientists and engineers who carry out research and development using the Large Hadron Collider experiments and accelerator systems. These include people based at CERN and those working mainly from their home institutions. The purpose of USLUA is to provide a forum for discussions of the US participation in the LHC research program, with a focus on how best to enhance scientific participation in the discoveries expected from this research. US LUA aims to help the US LHC community work effectively with their colleagues at CERN while in the US, and to adapt to work at CERN and to living in the environs of the CERN laboratory. US LUA also provides communication channels between scientists working on LHC experiments, the US agencies supporting this research and the US Congress. Please refer to the Constitution of the USLUA.
+
+
+LHC Users who wish to join US LUA should complete the registration form.
+
+An Executive Committee (USLUEC) is elected by the US LUA membership. It will consist of 12 people serving two-year terms, with 6 people elected each year. At least one member of USLUEC will be from the US LARP community, and at least one member will be a US ALICE or US LHCb collaborator. Current membership of the USLUEC can be found here.
+
+The USLUEC is responsible for organizing an annual US LUA meeting and carrying out the organization’s business at monthly meetings. The USLUEC coordinates outreach activities with other US scientific users groups such as the Fermilab and SLAC Users Organization, including the annual US HEP community visits to members of Congress in Washington, DC. USLUEC will maintain good communications with the Advisory Committee of CERN Users (ACCU).
+
+
+
+
+
+
+[Video Background from [CERN](https://videos.cern.ch/record/2299938)]

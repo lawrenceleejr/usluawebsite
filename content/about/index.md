@@ -1,4 +1,6 @@
-# Executive Committee
+# About US LUA
+
+## Executive Committee
 
 The members of the current Executive Committee are (with term dates):
 
@@ -27,7 +29,10 @@ Members with observer status:
 * **Joe Haley** – Oklahoma State University – ATLAS – Observer
 * **David Miller** – University of Chicago – ATLAS – Observer
 
+### Officers
+
 As mentioned in the USLUA Bylaws, the membership includes the following officers who are selected from among the US LUEC members:
+
 * **Chair:** Harvey Newman
 * **Vice Chair:** Caterina Vernieri
 * **Treasurer:** David Saltzberg
@@ -35,7 +40,7 @@ As mentioned in the USLUA Bylaws, the membership includes the following officers
 
 According to the USLUA constitution, we elect half of the executive committee to a two-year term each year. Questions about the election or interest in standing for nomination may be brought to any Executive Committee member.
  
-## USLUA Committees
+## Subcommittees
 * **Quality of Life:** *Claire Lee (Co-Chair); Jannicke Pearkes, Kaori Maeshima, Elise Le Boulicaut Ennis, Steve Goldfarb, David Miller, Harvey Newman*
 * **Government Relations:** *Kiley Kennedy (Chair);  Caterina Vernieri, David Saltzberg, Harvey Newman,  Joe Haley, John Stupak*
 * **Outreach/Communications:** *Julia Gonski (Chair); Caterina Vernieri, Kiley Kennedy, Kaori Maeshima,  Elise Le Boulicaut Ennis, Claire Lee,  Lawrence Lee,  Harvey Newman, Steve Goldfarb*
