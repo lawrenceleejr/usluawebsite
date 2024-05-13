@@ -4,7 +4,7 @@ autoSwitchAppearance = false
 enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 defaultBackgroundImage = "test.png"
 
 [header]
@@ -19,7 +19,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "background"
-showRecent = false
+showRecent = true
 showRecentItems = 5
 showMoreLink = false
 showMoreLinkDest = "/posts"
@@ -43,15 +43,15 @@ showDraftLabel = true
 showEdit = false
 editAppendPath = true
 seriesOpened = false
-showHeadingAnchors = true
-showPagination = true
+showHeadingAnchors = false
+showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = true
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = false
-showZenMode = true
+showZenMode = false
 
 [list]
 showHero = false

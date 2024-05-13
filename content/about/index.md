@@ -4,24 +4,24 @@
 
 The members of the current Executive Committee are (with term dates):
 
-* **Maria Baldini** – Fermilab – Accelerator R&D (2024-2025) – mbaldini_at_fnal.gov
-* **Karri DiPetrillo** – University of Chicago – ATLAS (2024-2025) – karri.folan.di.petrillo_at_cern.ch
-* **Steve Goldfarb** – University of Melbourne – ATLAS (2023-2024) – steven.goldfarb_at_cern.ch
-* **Julia Gonski** – SLAC – ATLAS (2024-2025) – julia.gonski_at_cern.ch
-* **Matt LeBlanc** – Brown – CMS (2024-2025) – matt_leblanc_at_brown.edu
-* **Claire Lee** – Fermilab – CMS (2023-2024) – claire.lee_at_cern.ch
-* **Lawrence Lee** – University of Tennessee – CMS (2024-2025) lawrence.lee.jr_at_cern.ch
+* **Maria Baldini** – Fermilab – Accelerator R&D (2024-2025) – `mbaldini_at_fnal.gov`
+* **Karri DiPetrillo** – University of Chicago – ATLAS (2024-2025) – `karri.folan.di.petrillo_at_cern.ch`
+* **Steve Goldfarb** – University of Melbourne – ATLAS (2023-2024) – `steven.goldfarb_at_cern.ch`
+* **Julia Gonski** – SLAC – ATLAS (2024-2025) – `julia.gonski_at_cern.ch`
+* **Matt LeBlanc** – Brown – CMS (2024-2025) – `matt_leblanc_at_brown.edu`
+* **Claire Lee** – Fermilab – CMS (2023-2024) – `claire.lee_at_cern.ch`
+* **Lawrence Lee** – University of Tennessee – CMS (2024-2025) lawrence.lee.jr_at_cern.ch`
 * **Elise Le Boulicaut Ennis** – Duke University – ATLAS (2023-2024) elise.maria.le.boulicaut_cern.ch
-* **Kiley Kennedy** – Princeton – CMS (2023-2024) – kiley.elizabeth.kennedy_at_cern.ch
-* **Kaori Maeshima** – Fermilab – CMS (2023-2024) – kaori.maeshima_at_cern.ch
-* **Harvey Newman** – Caltech – CMS  (2022-23) – newman_at_hep.caltech.edu
-* **Jannicke Pearkes** – CU Boulder – CMS (2023-2024) – jannicke.pearkes_at_cern.ch
-* **David Saltzberg** – UCLA – CMS (2023-2024) – david.saltzberg_at_cern.ch
-* **John Stupak** – University of Oklahoma – ATLAS (2023-2024) – john.stupak_at_cern.ch
-* **Anyes Taffard** – UC Irvine – ATLAS (2022-2023) – anyes.taffard_at_cern.ch
-* **Deepa Thomas** – University of Texas, Austin – ALICE (2024-2025) – deepa.thomas_at_cern.ch
-* **Caterina Vernieri** – SLAC – ATLAS (2024-2025) – caterina.vernieri_at_cern.ch
-* **Michael K. Wilkinson** – Cincinnati – LHCb (2024-2025) – michael.k.wilkinson_at_cern.ch
+* **Kiley Kennedy** – Princeton – CMS (2023-2024) – `kiley.elizabeth.kennedy_at_cern.ch`
+* **Kaori Maeshima** – Fermilab – CMS (2023-2024) – `kaori.maeshima_at_cern.ch`
+* **Harvey Newman** – Caltech – CMS  (2022-23) – `newman_at_hep.caltech.edu`
+* **Jannicke Pearkes** – CU Boulder – CMS (2023-2024) – `jannicke.pearkes_at_cern.ch`
+* **David Saltzberg** – UCLA – CMS (2023-2024) – `david.saltzberg_at_cern.ch`
+* **John Stupak** – University of Oklahoma – ATLAS (2023-2024) – `john.stupak_at_cern.ch`
+* **Anyes Taffard** – UC Irvine – ATLAS (2022-2023) – `anyes.taffard_at_cern.ch`
+* **Deepa Thomas** – University of Texas, Austin – ALICE (2024-2025) – `deepa.thomas_at_cern.ch`
+* **Caterina Vernieri** – SLAC – ATLAS (2024-2025) – `caterina.vernieri_at_cern.ch`
+* **Michael K. Wilkinson** – Cincinnati – LHCb (2024-2025) – `michael.k.wilkinson_at_cern.ch`
 
 Members with observer status:
 

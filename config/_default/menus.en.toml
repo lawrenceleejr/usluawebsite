@@ -5,18 +5,32 @@ none = "none"
 name = "US Particle Physics"
 pageRef = "us-particle-physics"
 identifier = "YDEoepkydb"
-weight = 9999
+weight = 2
 
 [[main]]
 name = "About Us"
 pageRef = "about"
 identifier = "8ljnYPMuWu"
-weight = 9999
+weight = 10
 
 [[main]]
 name = "Government Relations"
 pageRef = "government"
 identifier = "iHXcDfZoHo"
+weight = 20
+
+[[main]]
+name = "Join"
+pageRef = "join"
+identifier = "iHXcDfZoHodfn"
+weight = 30
+
+
+
+[[main]]
+name = "Donate"
+url = "https://www.paypal.com/US/fundraiser/charity/2245513"
+identifier = "wPWmG093eT"
 weight = 9999
 
 [[footer]]
