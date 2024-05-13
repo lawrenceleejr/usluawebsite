@@ -19,6 +19,13 @@ pageRef = "government"
 identifier = "iHXcDfZoHo"
 weight = 20
 
+
+[[main]]
+name = "Resources"
+pageRef = "resources"
+identifier = "iHXcDfZoHodfna"
+weight = 30
+
 [[main]]
 name = "Join"
 pageRef = "join"
