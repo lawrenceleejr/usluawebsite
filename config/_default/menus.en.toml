@@ -1,14 +1,23 @@
 [[main]]
 none = "none"
 
+
+
+[[main]]
+name = "About Us"
+weight = 10
+
+
 [[main]]
 name = "US Particle Physics"
 pageRef = "us-particle-physics"
+parent = "About Us"
 identifier = "YDEoepkydb"
 weight = 2
 
 [[main]]
-name = "About Us"
+name = "Executive Committee"
+parent = "About Us"
 pageRef = "about"
 identifier = "8ljnYPMuWu"
 weight = 10
@@ -19,18 +28,23 @@ pageRef = "government"
 identifier = "iHXcDfZoHo"
 weight = 20
 
-
 [[main]]
 name = "Resources"
-pageRef = "resources"
-identifier = "iHXcDfZoHodfna"
 weight = 30
+
+
+[[main]]
+  name = "Relocation Guide For CERN"
+  parent = "Resources"
+  pageRef = "relocation"
+  weight = 20
+
 
 [[main]]
 name = "Join"
 pageRef = "join"
 identifier = "iHXcDfZoHodfn"
-weight = 30
+weight = 35
 
 
 
