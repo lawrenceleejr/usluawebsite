@@ -62,7 +62,22 @@ weight = 35
 name = "Donate"
 url = "https://www.paypal.com/US/fundraiser/charity/2245513"
 identifier = "wPWmG093eT"
-weight = 9999
+weight = 9990
+
+
+
+[[main]]
+  identifier = "twitter"
+  pre = "x-twitter"
+  url = "https://twitter.com/us_lhc"
+  weight = 9991
+
+[[main]]
+  identifier = "facebook"
+  pre = "facebook"
+  url = "https://www.facebook.com/pages/USLUA-US-LHC-Users-Association/1576014266009645?ref=aymt_homepage_panel"
+  weight = 9992
+
 
 [[footer]]
 none = "none"
