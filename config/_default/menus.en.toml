@@ -22,6 +22,16 @@ pageRef = "about"
 identifier = "8ljnYPMuWu"
 weight = 10
 
+
+[[main]]
+name = "News"
+pageRef = "posts"
+identifier = "8ljasnYPMuWu"
+weight = 15
+
+
+
+
 [[main]]
 name = "Government Relations"
 pageRef = "government"
