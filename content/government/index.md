@@ -38,25 +38,25 @@ The D.C. Trip can be a deeply rewarding (and fun!) experience. If you are intere
 
 
 {{< gallery >}}
-<img src="gallery/DSCF2115.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<!-- <img src="gallery/DSCF2115.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" /> -->
 <img src="gallery/IMG_8369.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_7446.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_2534.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_7106.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_3285.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/20240409_183206.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/PXL_20240409_193321173.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<!-- <img src="gallery/PXL_20240409_193321173.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" /> -->
 <img src="gallery/PXL_20240409_123344228.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/PXL_20240410_220722561.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<!-- <img src="gallery/PXL_20240410_220722561.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" /> -->
 <img src="gallery/IMG_0026.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_8345.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/PXL_20240409_193215271.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/IMG_9296.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/image004.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<!-- <img src="gallery/image004.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" /> -->
 <img src="gallery/4Fostermeeting.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/20230322-IMG_4769.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 <img src="gallery/DERepBluntRochester_Jeff.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-<img src="gallery/NJSenBooker_Kiley_Jeff.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+<!-- <img src="gallery/NJSenBooker_Kiley_Jeff.jpeg" class="grid-w50 md:grid-w33 xl:grid-w25" /> -->
 <img src="gallery/OSTP_OMB_meeting_1.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
