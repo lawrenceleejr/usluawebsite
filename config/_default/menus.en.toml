@@ -25,7 +25,7 @@ weight = 10
 [[main]]
 name = "Articles and Bylaws"
 parent = "About Us"
-pageRef = "about/articles-and-bylaws"
+pageRef = "articles-and-bylaws"
 identifier = "8ljnYPMuWua"
 weight = 11
 
