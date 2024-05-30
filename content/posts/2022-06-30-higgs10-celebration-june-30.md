@@ -15,4 +15,4 @@ This is during the CMS Week at CERN, and given the excellent progress of the LHC
 
 The program includes a keynote address by Prof. Joseph Incandela, Vice Chancellor for Research at UCSB. As then-spokesperson of CMS, Incandela presented the CMS results, along with now-CERN Director Fabiola Gianotti who presented the ATLAS results, that were the basis of the Higgs boson discovery announced on July 4, 2012.
 
-**Please also follow the CERN events July 3-5 including the event marking the start of Run 3 - [details are here](http://https//www.dropbox.com/s/jtjnohmrixx35ln/HiggsatTen_CERNJuly4Event.pdf?dl=0)**
+**Please also follow the CERN events July 3-5 including the event marking the start of Run 3 - [details are here](https://indico.cern.ch/event/1135177/)**
