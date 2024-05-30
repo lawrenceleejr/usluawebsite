@@ -11,7 +11,7 @@ The members of the current Executive Committee are (with term dates):
 * **Matt LeBlanc** – Brown – CMS ('24-'25) 
 * **Claire Lee** – Fermilab – CMS ('23-'24) 
 * **Lawrence Lee** – University of Tennessee – CMS ('24-'25) 
-* **Elise Le Boulicaut Ennis** – Duke University – ATLAS ('23-'24) 
+* **Elise Le Boulicaut Ennis** – Yale University – ATLAS ('23-'24) 
 * **Kiley Kennedy** – Princeton – CMS ('23-'24) 
 * **Kaori Maeshima** – Fermilab – CMS ('23-'24) 
 * **Harvey Newman** – Caltech – CMS  ('22-'23) 

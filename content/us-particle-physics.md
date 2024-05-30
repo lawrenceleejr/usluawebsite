@@ -1,5 +1,5 @@
 # US Particle Physics
-(From [usparticlephysics.org](usparticlephysics.org))
+(From [usparticlephysics.org](https://usparticlephysics.org/))
 
 Particle physicists endeavor to understand matter, energy, space, and time—from the tiniest particles to the entire cosmos. Investment in fundamental research enables the U.S. to champion global collaboration, spearhead scientific breakthroughs, and power innovation.
 
@@ -54,6 +54,6 @@ Albert Einstein discovered that energy and mass are two sides of the same coin. 
 
 ### What’s next?
 
-Scientists are characterizing the newly discovered Higgs boson, investigating subatomic interactions and searching for new particles and forces. The next steps and goals are outlined in a long-term strategic plan for the US particle physics program called the P5 Report.
+Scientists are characterizing the newly discovered Higgs boson, investigating subatomic interactions and searching for new particles and forces. The next steps and goals are outlined in a long-term strategic plan for the US particle physics program called the [P5 Report](https://www.usparticlephysics.org/2023-p5-report/).
 
-Learn more at [usparticlephysics.org](usparticlephysics.org)
+Learn more at [usparticlephysics.org](https://usparticlephysics.org/)
