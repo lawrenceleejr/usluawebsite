@@ -34,10 +34,10 @@ The USLUEC is responsible for organizing an annual US LUA meeting and carrying o
 
 ## Donations
 
-Support our work with a donation via [PayPal](https://www.paypal.com/US/fundraiser/charity/2245513) so we can continue to support the American community making physics at the LHC a reality. Your contribution supports our advocacy to the government, travel for early career researchers, and supporting our community when researching abroad at CERN.
+Support our work with a donation via [GiveButter](https://givebutter.com/USLUA) so we can continue to support the American community making physics at the LHC a reality. Your contribution supports our advocacy to the government, travel for early career researchers, and supporting our community when researching abroad at CERN.
 
 <center>
-{{< button href="https://www.paypal.com/US/fundraiser/charity/2245513" target="_self" >}}
+{{< button href="https://givebutter.com/USLUA" target="_self" >}}
 Donate Now!
 {{< /button >}}
 </center>
