@@ -4,23 +4,6 @@ description: "US LHC Users Association (USLUA) Information"
 ---
 
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This page is a proposal for an updated website and is very much still under construction! If you've somehow ended up here, please see <a href="uslua.org">uslua.org</a> for more information.</span>
-  </span>
-</div>
-
-
-<!-- ```node
-npx blowfish-tools
-```   -->
-
-<!-- {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}} -->
-
-
 ## Purpose and Structure
 
 The **US LHC Users Association (US LUA)** is composed of scientists and engineers who carry out research and development using the Large Hadron Collider experiments and accelerator systems. These include people based at CERN and those working mainly from their home institutions. The purpose of USLUA is to provide a forum for discussions of the US participation in the LHC research program, with a focus on how best to enhance scientific participation in the discoveries expected from this research. US LUA aims to help the US LHC community work effectively with their colleagues at CERN while in the US, and to adapt to work at CERN and to living in the environs of the CERN laboratory. US LUA also provides communication channels between scientists working on LHC experiments, the US agencies supporting this research and the US Congress. Please refer to the Constitution of the USLUA.
