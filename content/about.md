@@ -4,25 +4,25 @@
 
 The members of the current Executive Committee are (with term dates):
 
-* **Saptaparna Bhattacharya**, SMU, CMS (2025-2026)
-* **Laura Bruce**, Harvard, ATLAS (2025-2026)
-* **Philip Chang**, University of Florida, CMS (2025-2026)
-* **Steve Goldfarb**, Michigan, ATLAS (2025-2026)
-* **Kiley Kennedy**, Princeton, CMS (2025-2026)
-* **Elise Le Boulicaut Ennis**, Yale, ATLAS (2025-2026)
-* **David Saltzberg** (Treasurer), UCLA, CMS (2025-2026)
-* **John Stupak**, Oklahoma, ATLAS (2025-2026)
-* **Emily Thompson**, LBL, ATLAS (2025-2026)
+* **Saptaparna Bhattacharya**, SMU, CMS (2025-2026) 
+* **Laura Bruce**, Harvard, ATLAS (2025-2026) 
+* **Philip Chang**, University of Florida, CMS (2025-2026) 
+* **Steve Goldfarb**, Michigan, ATLAS (2025-2026) 
+* **Kiley Kennedy**, Princeton, CMS (2025-2026) 
+* **Elise Le Boulicaut Ennis**, Yale, ATLAS (2025-2026) 
+* **David Saltzberg** (Treasurer), UCLA, CMS (2025-2026) 
+* **John Stupak**, Oklahoma, ATLAS (2025-2026) 
+* **Emily Thompson**, LBL, ATLAS (2025-2026) 
 
-* **Maria Baldini**, Fermilab, Accelerator R&D (2024-2025)
-* **Karri DiPetrillo**, Chicago, ATLAS (2024-2025)
-* **Julia Gonski** (APS Liaison; Sec’y), SLAC, ATLAS (2024-2025) 
-* **Matt LeBlanc**, Brown, CMS (2024-2025)
-* **Lawrence Lee**, Tennessee, CMS (2024-2025)
-* **Harvey Newman** (Chair), Caltech, CMS (2024-2025)
-* **Deepa Thomas**, Texas Austin, ALICE (2024-2025) 
-* **Caterina Vernieri** (Co-Chair), SLAC, ATLAS (2024-2025)
-* **Michael K. Wilkinson**, Cincinnati, LHCb (2024-2025)
+* **Maria Baldini**, Fermilab, Accelerator R&D (2024-2025) 
+* **Karri DiPetrillo**, Chicago, ATLAS (2024-2025) 
+* **Julia Gonski** (APS Liaison; Sec’y), SLAC, ATLAS (2024-2025)  
+* **Matt LeBlanc**, Brown, CMS (2024-2025) 
+* **Lawrence Lee**, Tennessee, CMS (2024-2025) 
+* **Harvey Newman** (Chair), Caltech, CMS (2024-2025) 
+* **Deepa Thomas**, Texas Austin, ALICE (2024-2025)  
+* **Caterina Vernieri** (Co-Chair), SLAC, ATLAS (2024-2025) 
+* **Michael K. Wilkinson**, Cincinnati, LHCb (2024-2025) 
 
 Members with observer status:
 
