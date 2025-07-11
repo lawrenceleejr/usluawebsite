@@ -4,7 +4,7 @@
 
 The members of the current Executive Committee are (with term dates):
 
-* **Saptaparna Bhattacharya**, SMU, CMS (2025-2026) 
+* **Saptaparna Bhattacharya**, SMU, ATLAS (2025-2026) 
 * **Laura Bruce**, Harvard, ATLAS (2025-2026) 
 * **Philip Chang**, University of Florida, CMS (2025-2026) 
 * **Steve Goldfarb**, Michigan, ATLAS (2025-2026) 
