@@ -28,6 +28,7 @@ Donate Now!
 
 ## Meetings and Presentations
 
+* [2024 Annual Meeting, SLAC National Accelerator Laboratory, Dec 16-18, 2024](https://indico.slac.stanford.edu/event/9140/overview)
 * [2023 Annual Meeting, Fermi National Accelerator Laboratory, Dec 12-15, 2023](https://indico.fnal.gov/event/61746/)
 * [2018 Annual Meeting, Rice University, Oct 15-17, 2019](https://indico.cern.ch/event/844493/)
 * [2018 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24-26, 2018](https://indico.fnal.gov/event/17566/)
