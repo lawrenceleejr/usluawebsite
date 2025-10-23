@@ -20,6 +20,8 @@ hugo serve
 
 which will launch a local web server that will let you see your changes live. Then you can edit the markdown files in the `content/` folder. Once you're happy with how your edits look, just commit, push, and submit a PR.
 
+> If you encounter errors serving the website locally, especially if they mention deprecated features, you may need to downgrade your `hugo` installation. This can be difficult using package managers, but it is straightforward using the "from source" option on the installation page, e.g., `go install github.com/gohugoio/hugo@v0.125.5`. The website has been tested with `hugo` version `v0.125.5` and the current version of `blowfish`, `v2.66.0`.
+
 ### Quick Fixes (small text additions or typos)
 
 If there's something in the text that's very small and should be updated quickly, it's possible to use the built-in GitHub IDE (just hit `.`), make the change, commit, submit the PR. The CI will take care of running everything for you.
