@@ -1,0 +1,6 @@
+{{- $paramPath := .Get 0 -}}
+{{- $params := .Site.Params -}}
+{{- range $key := split $paramPath "." -}}
+{{- $params = index $params $key -}}
+{{- end -}}
+{{- $params -}}
