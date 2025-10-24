@@ -84,6 +84,12 @@ weight = 9990
   url = "https://www.facebook.com/pages/USLUA-US-LHC-Users-Association/1576014266009645?ref=aymt_homepage_panel"
   weight = 9992
 
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/lawrenceleejr/usluawebsite"
+  weight = 9993
+
 
 [[footer]]
 none = "none"
