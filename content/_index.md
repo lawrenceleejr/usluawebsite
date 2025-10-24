@@ -26,20 +26,20 @@ Donate Now!
 
 ## Meetings and Presentations
 
-* [2025 Annual Meeting, University of Washington, Seattle, Dec 16-18, 2025](https://indico.cern.ch/event/1572204/)
-* [2024 Annual Meeting, SLAC National Accelerator Laboratory, Dec 16-18, 2024](https://indico.slac.stanford.edu/event/9140/overview)
-* [2023 Annual Meeting, Fermi National Accelerator Laboratory, Dec 12-15, 2023](https://indico.fnal.gov/event/61746/)
-* [2018 Annual Meeting, Rice University, Oct 15-17, 2019](https://indico.cern.ch/event/844493/)
-* [2018 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24-26, 2018](https://indico.fnal.gov/event/17566/)
-* [2017 Annual Meeting, Fermi National Accelerator Laboratory, Nov 1-3, 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=15068)
-* [2016 Annual Meeting, Lawrence Berkeley National Laboratory, Nov 2-4, 2016](https://indico.cern.ch/event/561618/)
-* [2015 Annual Meeting, Fermi National Accelerator Laboratory, Nov 11-13, 2015](http://indico.fnal.gov/event/uslua2015)
-* [2014 Annual Meeting, Argonne National Laboratory, Nov 12-14, 2014](https://indico.fnal.gov/event/24886/)
+* [2025 Annual Meeting, University of Washington, Seattle, Dec 16–18, 2025](https://indico.cern.ch/event/1572204/)
+* [2024 Annual Meeting, SLAC National Accelerator Laboratory, Dec 16–18, 2024](https://indico.slac.stanford.edu/event/9140/overview)
+* [2023 Annual Meeting, Fermi National Accelerator Laboratory, Dec 12–15, 2023](https://indico.fnal.gov/event/61746/)
+* [2018 Annual Meeting, Rice University, Oct 15–17, 2019](https://indico.cern.ch/event/844493/)
+* [2018 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24–26, 2018](https://indico.fnal.gov/event/17566/)
+* [2017 Annual Meeting, Fermi National Accelerator Laboratory, Nov 1–3, 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=15068)
+* [2016 Annual Meeting, Lawrence Berkeley National Laboratory, Nov 2–4, 2016](https://indico.cern.ch/event/561618/)
+* [2015 Annual Meeting, Fermi National Accelerator Laboratory, Nov 11–13, 2015](http://indico.fnal.gov/event/uslua2015)
+* [2014 Annual Meeting, Argonne National Laboratory, Nov 12–14, 2014](https://indico.fnal.gov/event/24886/)
 * [2013 Annual Meeting, University of Wisconsin, Madison, Nov 6–8, 2013](http://agenda.hep.wisc.edu//conferenceDisplay.py?confId=757)
 * [2012 Annual Meeting, Fermi National Accelerator Laboratory, Oct 18–20, 2012](https://indico.fnal.gov/conferenceDisplay.py?confId=5830)
 * [2011 Annual Meeting, Argonne National Laboratory, Nov 3–5, 2011](https://indico.fnal.gov/conferenceDisplay.py?confId=5830); [Summary](http://www.fnal.gov/pub/today/archive_2011/today11-11-16_LHCUsersReadMore.html)
 * [2010 Annual Meeting, Fermi National Accelerator Laboratory, Oct 29–30, 2010](http://indico.cern.ch/conferenceDisplay.py?confId=104297)
-* USCMS Meeting Presentation, May 6-8, 2010
+* USCMS Meeting Presentation, May 6–8, 2010
 * [2009 Annual Meeting, Lawrence Berkeley National Laboratory, Sep 25–26, 2009](https://www.fnal.gov/pub/today/archive/archive_2009/today09-10-15.html)
 * National User Facility Organization Meeting, Jun 10, 2009
 * [2008 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24, 2008](http://indico.cern.ch/conferenceDisplay.py?confId=38226)
