@@ -13,7 +13,7 @@ This website is built using [Hugo](https://gohugo.io/), a fast and modern static
 
 ### Contributing
 
-We welcome contributions from the community! If you'd like to suggest improvements, report issues, or contribute content, please see our [Contributing Guidelines](https://github.com/lawrenceleejr/usluawebsite/blob/main/CONTRIBUTING.md), part of the [GitHub repo](https://github.com/lawrenceleejr/usluawebsite) that builds this website.
+We welcome contributions from the community! If you'd like to suggest improvements, report issues, or contribute content, please see our [Contributing Guidelines]({{< param "githubRepo" >}}/blob/main/CONTRIBUTING.md), part of the [GitHub repo]({{< param "githubRepo" >}}) that builds this website.
 
 ### Maintenance
 
@@ -21,4 +21,4 @@ This website is maintained by the US LUA Executive Committee and volunteers from
 
 ### Contact
 
-For questions about this website or to report technical issues, please create an issue on the [GitHub repo](https://github.com/lawrenceleejr/usluawebsite).
+For questions about this website or to report technical issues, please create an issue on the [GitHub repo]({{< param "githubRepo" >}}).

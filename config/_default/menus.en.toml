@@ -87,6 +87,7 @@ weight = 9990
 [[main]]
   identifier = "github"
   pre = "github"
+  # Note: This URL should match the githubRepo parameter in params.toml
   url = "https://github.com/lawrenceleejr/usluawebsite"
   weight = 9993
 

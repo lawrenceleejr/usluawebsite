@@ -7,6 +7,11 @@ disableImageOptimization = false
 disableTextInHeader = true
 defaultBackgroundImage = "test.png"
 
+# Custom site parameters for param.html to re-use in .md files throughout, e.g.,
+# {{< param "githubRepo" >}}
+# Note: githubRepo should match the URL in menus.en.toml
+githubRepo = "https://github.com/lawrenceleejr/usluawebsite"
+
 [header]
 layout = "fixed-fill-blur"
 
