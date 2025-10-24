@@ -3,7 +3,6 @@ title: "US LHC Users Association"
 description: "US LHC Users Association (USLUA) Information"
 ---
 
-
 ## Purpose and Structure
 
 The **US LHC Users Association (US LUA)** is composed of scientists and engineers who carry out research and development using the Large Hadron Collider experiments and accelerator systems. These include people based at CERN and those working mainly from their home institutions. The purpose of USLUA is to provide a forum for discussions of the US participation in the LHC research program, with a focus on how best to enhance scientific participation in the discoveries expected from this research. US LUA aims to help the US LHC community work effectively with their colleagues at CERN while in the US, and to adapt to work at CERN and to living in the environs of the CERN laboratory. US LUA also provides communication channels between scientists working on LHC experiments, the US agencies supporting this research and the US Congress. Please refer to the Constitution of the USLUA.
@@ -13,7 +12,7 @@ An Executive Committee (USLUEC) is elected by the US LUA membership. It will con
 
 The USLUEC is responsible for organizing an annual US LUA meeting and carrying out the organization’s business at monthly meetings. The USLUEC coordinates outreach activities with other US scientific users groups such as the Fermilab and SLAC Users Organization, including the annual US HEP community visits to members of Congress in Washington, DC. USLUEC will maintain good communications with the Advisory Committee of CERN Users (ACCU).
 
-## [A Letter from the Chair (pdf)](USLUAOrganizationandActivities_Brief052015Update.pdf)
+## [A Letter from the Chair (PDF)](USLUAOrganizationandActivities_Brief052015Update.pdf)
 
 ## Donations
 
@@ -24,7 +23,6 @@ Support our work with a donation via [GiveButter](https://givebutter.com/USLUA) 
 Donate Now!
 {{< /button >}}
 </center>
-
 
 ## Meetings and Presentations
 
@@ -45,8 +43,5 @@ Donate Now!
 * [2009 Annual Meeting, Lawrence Berkeley National Laboratory, Sep 25–26, 2009](https://www.fnal.gov/pub/today/archive/archive_2009/today09-10-15.html)
 * National User Facility Organization Meeting, Jun 10, 2009
 * [2008 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24, 2008](http://indico.cern.ch/conferenceDisplay.py?confId=38226)
-
-
-
 
 *[Video Background from [CERN](https://videos.cern.ch/record/2299938)]*
