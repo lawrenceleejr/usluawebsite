@@ -1,4 +1,7 @@
-# Relocation Guide for CERN
+---
+title: "Relocation Guide for CERN"
+type: "relocation"
+---
 
 ## Introduction
 
