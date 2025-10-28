@@ -13,25 +13,8 @@ Also another excellent website is the [Newcomer Welcome Center](http://newcomerw
 
 [Here is an orientation presentation](https://github.com/acostad/acostad.github.io/blob/main/NewStudentOrientationAtCERN.pdf) for members of your group who are moving to or visiting CERN. This is based on a presentation given regularly at Duke and modified by ACCU and USLUA Exec Committee member Darin Acosta. Please let us know if you have updates or corrections, as information changes, though we will try to keep the info here current.
 
-## US LUA Guide
+---
 
-### Visa Information
-
-The [CERN Bulletin](http://cdsweb.cern.ch/journal/CERNBulletin/2010/38/Official%20News/1291960?ln=en) from 20 September 2010 describes the visa situation for CERN visitors.
-
-This has some [further information about visas]({{< relref "visas" >}}) for France and Switzerland
-
-### [Arriving at CERN - Transportation, Registration, etc]({{< relref "arriving-at-cern" >}})
-
-### [Banking at CERN]({{< relref "banking" >}})
-
-### [Housing - Short/Long-Term and Practical Info]({{< relref "housing" >}})
-
-### [Transportation Info]({{< relref "transportation" >}})
-
-### [Healthcare]({{< relref "health" >}})
-
-### [Other Practical Information]({{< relref "other-practical-information" >}})
+*This page was originally has been created for the US LHC Users Association by Tony Liss and partially updated in 2024 with the US LUA website migration. It draws heavily on the extremely informative ATLAS “Coming to CERN” page created by Alexia Leyval. Thanks Alexia!*
 
 ---
-*This page was originally has been created for the US LHC Users Association by Tony Liss and partially updated in 2024 with the US LUA website migration. It draws heavily on the extremely informative ATLAS “Coming to CERN” page created by Alexia Leyval. Thanks Alexia!*

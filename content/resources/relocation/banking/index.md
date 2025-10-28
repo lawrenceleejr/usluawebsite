@@ -1,4 +1,6 @@
-# Guidance for Banking at CERN
+---
+title: "3. Banking at CERN"
+---
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
