@@ -5,11 +5,9 @@ type: "relocation"
 
 ## Introduction
 
-
 There are many other sources of helpful information. CERN has a comprehensive [Newcomers Guide](https://newcomersguide.web.cern.ch/).
 
 Also another excellent website is the [Newcomer Welcome Center](http://newcomerwelcomecenter.weebly.com/). See also the [USCMS Twiki](https://twiki.cern.ch/twiki/bin/view/Main/USCMSProjectOfficeCERN). Feedback and recent information are always welcome.
-
 
 ## Orientation to CERN
 
@@ -35,9 +33,5 @@ This has some [further information about visas]({{< relref "visas" >}}) for Fran
 
 ### [Other Practical Information]({{< relref "other-practical-information" >}})
 
-
-
 ---
 *This page was originally has been created for the US LHC Users Association by Tony Liss and partially updated in 2024 with the US LUA website migration. It draws heavily on the extremely informative ATLAS “Coming to CERN” page created by Alexia Leyval. Thanks Alexia!*
-
-
