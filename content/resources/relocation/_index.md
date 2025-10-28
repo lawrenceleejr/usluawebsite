@@ -18,19 +18,19 @@ Also another excellent website is the [Newcomer Welcome Center](http://newcomerw
 
 The [CERN Bulletin](http://cdsweb.cern.ch/journal/CERNBulletin/2010/38/Official%20News/1291960?ln=en) from 20 September 2010 describes the visa situation for CERN visitors.
 
-This has some [further information about visas](visas) for France and Switzerland
+This has some [further information about visas]({{< relref "visas" >}}) for France and Switzerland
 
-### [Arriving at CERN - Transportation, Registration, etc](arriving-at-cern)
+### [Arriving at CERN - Transportation, Registration, etc]({{< relref "arriving-at-cern" >}})
 
-### [Banking at CERN](banking)
+### [Banking at CERN]({{< relref "banking" >}})
 
-### [Housing - Short/Long-Term and Practical Info](housing)
+### [Housing - Short/Long-Term and Practical Info]({{< relref "housing" >}})
 
-### [Transportation Info](transportation)
+### [Transportation Info]({{< relref "transportation" >}})
 
-### [Healthcare](health)
+### [Healthcare]({{< relref "health" >}})
 
-### [Other Practical Information](other-practical-information)
+### [Other Practical Information]({{< relref "other-practical-information" >}})
 
 
 
