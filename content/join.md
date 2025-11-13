@@ -1,6 +1,10 @@
 # Joining USLUA
 
-You can join USLUA by subscribing to the `uslua-general` [group](https://groups-portal.web.cern.ch/group/uslua-general/details) on the CERN Groups [Portal](https://groups-portal.web.cern.ch/). (CERN account required.)
+You can join USLUA by subscribing to the `uslua-general` [group](https://groups-portal.web.cern.ch/group/uslua-general/details) on the CERN Groups [Portal](https://groups-portal.web.cern.ch/) (CERN account required).  This will put you on the USLUA mailing list.
+
+Membership is free and open to all US LHC Users. By joining the USLUA mailing list, you will receive important announcements about USLUA activities, including the Summer Party, Annual Meeting, DC Trip, and elections for the Executive Committee, as well as news and other timely information relevant to the community.
+
+The purpose of USLUA can be found on the [home page]({{< ref "_index.md" >}}).
 
 ## Joining the USLUA Executive Committee
 
