@@ -29,7 +29,7 @@ Donate Now!
 * [2025 Annual Meeting, University of Washington, Seattle, Dec 16–18, 2025](https://indico.cern.ch/event/1572204/)
 * [2024 Annual Meeting, SLAC National Accelerator Laboratory, Dec 16–18, 2024](https://indico.slac.stanford.edu/event/9140/overview)
 * [2023 Annual Meeting, Fermi National Accelerator Laboratory, Dec 12–15, 2023](https://indico.fnal.gov/event/61746/)
-* [2018 Annual Meeting, Rice University, Oct 15–17, 2019](https://indico.cern.ch/event/844493/)
+* [2019 Annual Meeting, Rice University, Oct 15–17, 2019](https://indico.cern.ch/event/844493/)
 * [2018 Annual Meeting, Fermi National Accelerator Laboratory, Oct 24–26, 2018](https://indico.fnal.gov/event/17566/)
 * [2017 Annual Meeting, Fermi National Accelerator Laboratory, Nov 1–3, 2017](https://indico.fnal.gov/conferenceDisplay.py?confId=15068)
 * [2016 Annual Meeting, Lawrence Berkeley National Laboratory, Nov 2–4, 2016](https://indico.cern.ch/event/561618/)
