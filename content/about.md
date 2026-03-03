@@ -4,31 +4,33 @@
 
 The members of the current Executive Committee are (with term dates):
 
-* **Saptaparna Bhattacharya**, SMU, ATLAS (2025-2026)
-* **Laura Bruce**, Harvard, ATLAS (2025-2026)
-* **Philip Chang**, University of Florida, CMS (2025-2026)
-* **Steve Goldfarb**, Michigan, ATLAS (2025-2026)
-* **Kiley Kennedy**, Princeton, CMS (2025-2026)
-* **Elise Le Boulicaut Ennis**, Yale, ATLAS (2025-2026)
-* **David Saltzberg** (Treasurer), UCLA, CMS (2025-2026)
-* **John Stupak**, Oklahoma, ATLAS (2025-2026)
-* **Emily Thompson**, LBL, ATLAS (2025-2026)
+* **Jahred Adelman**, Northern Illinois, ATLAS (2026-27)
+* **Maria Baldini**, Fermilab, Accelerator R&D (2026-27)
+* **Laura Havener**, Yale, ALICE (2026-27)
+* **Bo Jayatilaka**, Fermilab, CMS (2026-27)
+* **Daniela Kock**, Oregon, ATLAS & FASER (2026-27)
+* **Lauren Larson**, UT Austin, ATLAS (2026-27)
+* **Lawrence Lee**, Tennessee, CMS (2026-27)
+* **Harvey Newman** (Chair), Caltech, CMS (2026-27)
+* **Wren Vetens**, Syracuse, LHCb (2026-27)
+* **Michael Wilkinson**, Cincinnati, ATLAS & CODEX-b (2026-27)
 <!--  -->
-* **Maria Baldini**, Fermilab, Accelerator R&D (2024-2025)
-* **Karri DiPetrillo**, Chicago, ATLAS (2024-2025)
-* **Julia Gonski** (APS Liaison; Sec’y), SLAC, ATLAS (2024-2025) 
-* **Matt LeBlanc**, Brown, CMS (2024-2025)
-* **Lawrence Lee**, Tennessee, CMS (2024-2025)
-* **Harvey Newman** (Chair), Caltech, CMS (2024-2025)
-* **Deepa Thomas**, Texas Austin, ALICE (2024-2025) 
-* **Caterina Vernieri** (Co-Chair), SLAC, ATLAS (2024-2025)
-* **Michael K. Wilkinson**, Cincinnati, LHCb (2024-2025)
+* **Saptaparna Bhattacharya**, SMU, CMS (2025-26)
+* **Laura Bruce**, Harvard, ATLAS (2025-26)
+* **Philip Chang**, Florida, CMS (2025-26)
+* **Steve Goldfarb**, Michigan, ATLAS (2025-26)
+* **Kiley Kennedy**, Princeton, CMS (2025-26)
+* **Elise Le Boulicaut Ennis**, Yale, ATLAS (2025-26)
+* **David Saltzberg**, UCLA, CMS (2025-26)
+* **John Stupak**, Oklahoma, ATLAS (2025-26)
 
 Members with observer status:
 
 * **Sergei Gleyzer**, University of Alabama, CMS, Observer
 * **Joe Haley**, Oklahoma State University, ATLAS, Observer
 * **David Miller**, University of Chicago, ATLAS, Observer
+
+*And a wide variety of ex-officio members representing the community*
 
 ### Officers
 
