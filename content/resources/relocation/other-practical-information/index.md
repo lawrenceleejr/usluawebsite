@@ -1,5 +1,5 @@
 ---
-title: "Other Practical Information"
+title: "7. Other Practical Information"
 date: "2015-01-02"
 ---
 
