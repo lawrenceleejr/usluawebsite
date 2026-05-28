@@ -1,5 +1,5 @@
 ---
-title: "Housing"
+title: "4. Housing - Short/Long-Term and Practical Info"
 date: "2015-01-02"
 ---
 

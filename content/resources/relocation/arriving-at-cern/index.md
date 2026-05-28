@@ -1,5 +1,5 @@
 ---
-title: "Arriving at CERN"
+title: "2. Arriving at CERN - Transportation, Registration, etc."
 date: "2015-01-02"
 ---
 
