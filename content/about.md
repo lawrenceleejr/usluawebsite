@@ -13,7 +13,7 @@ The members of the current Executive Committee are (with term dates):
 * **Lawrence Lee**, Tennessee, CMS (2026-27)
 * **Harvey Newman** (Chair), Caltech, CMS (2026-27)
 * **Wren Vetens**, Syracuse, LHCb (2026-27)
-* **Michael Wilkinson**, Cincinnati, ATLAS & CODEX-b (2026-27)
+* **Michael Wilkinson**, Oklahoma, ATLAS & CODEX-b (2026-27)
 <!--  -->
 * **Saptaparna Bhattacharya**, SMU, CMS (2025-26)
 * **Laura Bruce**, Harvard, ATLAS (2025-26)
