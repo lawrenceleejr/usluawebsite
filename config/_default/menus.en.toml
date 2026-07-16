@@ -49,7 +49,7 @@ weight = 30
 
 
 [[main]]
-  name = "Relocation Guide For CERN"
+  name = "Relocation Guide for CERN"
   parent = "Resources"
   pageRef = "resources/relocation"
   weight = 20
