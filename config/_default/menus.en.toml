@@ -54,6 +54,12 @@ weight = 30
   pageRef = "resources/relocation"
   weight = 20
 
+[[main]]
+  name = "Voting while at CERN"
+  parent = "Resources"
+  pageRef = "resources/voting"
+  weight = 20
+
 
 
 [[main]]
